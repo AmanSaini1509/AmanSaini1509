@@ -26,4 +26,4 @@
 ---
 
 ### 📫 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/aman-saini-995b212b1/) | ✉️ [Email](aman1509.saini@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-saini-995b212b1/) | ✉️ (aman1509.saini@gmail.com)
