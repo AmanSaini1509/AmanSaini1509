@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Saini  
 
-<!--
-**AmanSaini1509/AmanSaini1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer** | Building **Scalable REST APIs & Microservices**  
+📱 **Mobile Developer** | Crafting seamless apps with **React Native & Kotlin**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB, Redis, RabbitMQ  
+- **Architecture:** Microservices, REST APIs, Docker, Kubernetes  
+- **Mobile:** React Native, Kotlin  
+- **DevOps & Tools:** Docker, Kubernetes, CI/CD, NGINX  
+
+---
+
+### 🌟 Featured Projects  
+🔹 **[Project Name](GitHub Repo URL)** - A short description of the project.  
+🔹 **[Project Name](GitHub Repo URL)** - A short description of the project.  
+
+---
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanSaini1509&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSaini1509&layout=compact&theme=radical)  
+
+---
+
+### 📫 Let's Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-saini-995b212b1/) | ✉️ [Email](aman1509.saini@gmail.com)
